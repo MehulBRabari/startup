@@ -1,0 +1,53 @@
+{
+  "contacts": [
+    {
+      "id": "3ac9",
+      "name": "Mehul Rabari",
+      "email": "mehul@gmail.com",
+      "subject": "Student at L.J University",
+      "message": "Gujarat"
+    }
+  ],
+  "service": [
+    {
+      "id": "1d64",
+      "name": "Mehul Rabari",
+      "email": "admin@gmail.com",
+      "service": "1",
+      "message": "jgghhjvhjv"
+    },
+    {
+      "id": "293c",
+      "name": "Mehul Rabari",
+      "email": "mehulrabari2005@gmail.com",
+      "service": "3",
+      "message": "dwdwdwd"
+    }
+  ],
+  "auth": [
+    {
+      "id": "a297",
+      "fname": "Mehul",
+      "lname": "Rabari",
+      "email": "mehulrabari2005@gmail.com",
+      "password": "123456",
+      "blocked": false
+    },
+    {
+      "id": "2722",
+      "fname": "Mehul",
+      "lname": "Rabari",
+      "email": "mehul@gmail.com",
+      "password": "1234567",
+      "blocked": false
+    },
+    {
+      "id": "5f42",
+      "fname": "Mehul",
+      "lname": "Rabari",
+      "email": "mehul@gmail.com",
+      "password": "12345Aa@",
+      "blocked": false
+    }
+  ]
+}
