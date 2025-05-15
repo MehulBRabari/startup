@@ -4,7 +4,7 @@ import About from "./Pages/About";
 import Services from "./Pages/Services";
 import Blog_grid from "./Pages/Blog_grid";
 import Blog_details from "./Pages/Blog_details";
-import Price from "./Pages/price";
+import Price from "./Pages/Price";
 import Features from "./Pages/Features";
 import Contact from "./Pages/Contact";
 import { ToastContainer } from "react-toastify";
